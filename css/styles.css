@@ -1,3 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic);
+
+font-family: 'Open Sans', sans-serif;
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
 .main-description p {
   text-align: justify;
 }
