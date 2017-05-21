@@ -2,6 +2,16 @@
   text-align: justify;
 }
 
+.thumbnail{
+  position: relative;
+  padding: 2px;
+  margin-bottom: 20px;
+}
+
+.caption p{
+  text-align: justify;
+}
+
 .footer {
   padding: 18px;
   margin: 18px;
